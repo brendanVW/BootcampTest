@@ -3,6 +3,6 @@ using namespace std;
 
 int main() 
 {
-    cout << "Brendan van Walstijn, 500733099";
+    cout << "Pascal Boeschoten";
     return 0;
 }
